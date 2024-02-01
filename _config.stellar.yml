@@ -1,0 +1,16 @@
+logo:
+  subtitle: 放飞希望 梦想起航 十六扬帆 共铸辉煌|一九一六 精神领袖 高二十六 我班最秀
+
+menubar:
+  columns: 2
+  items:
+    - id: post
+      title: 文章
+      url: /
+    - id: about
+      title: 关于
+      url: /about/
+
+style:
+  sidebar:
+    background: "linear-gradient(60deg, #ced, #dca)"
