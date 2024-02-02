@@ -1,6 +1,6 @@
 ---
 title: 汗水是咸的，收获是甜的
-categories: [通讯稿]
+categories: [活动]
 date: 2019-08-27
 ---
 

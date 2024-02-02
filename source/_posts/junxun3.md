@@ -1,6 +1,6 @@
 ---
 title: 军训感悟
-categories: [通讯稿]
+categories: [活动]
 date: 2019-08-26
 ---
 

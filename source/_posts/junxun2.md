@@ -1,6 +1,6 @@
 ---
 title: 2019级新生军训（宝鸡中学高一16班）
-categories: [通讯稿]
+categories: [活动]
 date: 2019-08-24
 ---
 
