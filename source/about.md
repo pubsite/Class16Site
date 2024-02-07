@@ -1,6 +1,7 @@
 ---
 menu_id: about
 title: 关于
+type: tech
 breadcrumb: false
 ---
 
