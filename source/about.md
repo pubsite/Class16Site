@@ -5,7 +5,7 @@ type: tech
 breadcrumb: false
 ---
 
-![](https://hezhibocdn.migucloud.com/static//upload/201908/23/locnPGG1566553318376.jpg)
+![](//hezhibocdn.migucloud.com/static//upload/201908/23/locnPGG1566553318376.jpg)
 
 ## 班级口号
 
@@ -23,6 +23,8 @@ breadcrumb: false
 
 有志者，事竟成，破釜沉舟，百二秦关终属楚；
 苦心人，天不负，卧薪尝胆，三千越甲可吞吴。
+
+![](//wsrv.nl/?url=ss2.meipian.me/users/72109688/cecdbb45ace2394740fb41e8df54aa4c.jpg)
 
 ## 高中教师
 
@@ -49,8 +51,8 @@ breadcrumb: false
 
 野生技协：https://thisis.host
 
-网站维护：纸鹿 {% hashtag QQ:2399052066 %}
+网站维护：[纸鹿](//zhilu.cyou) {% hashtag QQ:2399052066 %}
 
-感谢[Colsrch](https://github.com/Colsrch)曾经为本站博客化做出了贡献。
+感谢[Colsrch](//github.com/Colsrch)曾经为本站博客化做出了贡献。
 
-感谢[野生技协](https://thisis.host/)为本站提供[域名](https://thisis.host/site)。
+感谢野生技协为本站提供[域名](//thisis.host/site)。
