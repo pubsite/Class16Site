@@ -24,7 +24,7 @@ breadcrumb: false
 有志者，事竟成，破釜沉舟，百二秦关终属楚；
 苦心人，天不负，卧薪尝胆，三千越甲可吞吴。
 
-![](//wsrv.nl/?url=ss2.meipian.me/users/72109688/cecdbb45ace2394740fb41e8df54aa4c.jpg)
+![](//image.baidu.com/search/down?url=https://ss2.meipian.me/users/72109688/cecdbb45ace2394740fb41e8df54aa4c.jpg)
 
 ## 高中教师
 
