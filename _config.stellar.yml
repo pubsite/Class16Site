@@ -2,14 +2,17 @@ logo:
   subtitle: 放飞希望 梦想起航 十六扬帆 共铸辉煌|一九一六 精神领袖 高二十六 我班最秀
 
 menubar:
-  columns: 2
+  columns: 3
   items:
     - id: post
       title: 文章
       url: /
+    - id: maintain
+      title: 维护
+      url: /maintain
     - id: about
       title: 关于
-      url: /about/
+      url: /about
 
 article:
   type: story
@@ -18,11 +21,11 @@ style:
   font-family:
     logo: AlimamaDongFangDaKai
     body: LXGW WenKai Screen
-  sidebar:
-    background: "linear-gradient(60deg, #ced, #dca)"
+  leftbar:
+    background-image: "linear-gradient(60deg, #ced, #dca)"
 
 inject:
   head:
-    - <link rel="stylesheet" href="//cdn.bootcdn.net/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/style.min.css" media="none" onload="this.media='all'">
+    - <link rel="stylesheet" href="https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont/style.min.css" media="none" onload="this.media='all'">
     - <link rel="stylesheet" href="/static/font.css">
     - <link rel="stylesheet" href="//blog.zhilu.cyou/static/patch.css">

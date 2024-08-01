@@ -48,11 +48,3 @@ breadcrumb: false
 ## 其他
 
 宝中官网：http://www.baozhong.com.cn
-
-野生技协：https://thisis.host
-
-网站维护：[纸鹿](//zhilu.cyou) {% hashtag QQ:2399052066 %}
-
-感谢[Colsrch](//github.com/Colsrch)曾经为本站博客化做出了贡献。
-
-感谢野生技协为本站提供[域名](//thisis.host/site)。
